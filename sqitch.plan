@@ -4,3 +4,4 @@
 appschema 2016-05-17T22:55:26Z user <user@users-MacBook-Air.local> # Add schema for goodfilm objects
 film 2016-05-17T22:58:09Z user <user@users-MacBook-Air.local> # Add goodfilm tables
 v1schema 2016-05-17T23:07:53Z user <user@users-MacBook-Air.local> # Adding API v1 schema
+v1views 2016-05-17T23:09:43Z user <user@users-MacBook-Air.local> # Adding v1 views
