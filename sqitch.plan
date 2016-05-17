@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=goodfilm
+
+appschema 2016-05-17T22:55:26Z user <user@users-MacBook-Air.local> # Add schema for goodfilm objects
